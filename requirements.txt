@@ -1,0 +1,5 @@
+gradio>=4.0
+sentence-transformers>=2.2
+transformers>=4.36
+pypdf>=3.0
+numpy>=1.24
